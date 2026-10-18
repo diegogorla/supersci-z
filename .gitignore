@@ -1,0 +1,15 @@
+# Secrets and local runtime state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.sites-runtime/
+.wrangler/
+node_modules/
+dist/
+.next/
+coverage/
+*.log
+__pycache__/
+.venv/
