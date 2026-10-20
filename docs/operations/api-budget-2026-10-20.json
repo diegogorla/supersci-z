@@ -1,0 +1,19 @@
+{
+  "version": "2026-10-20.api-budget.v1",
+  "authorizedAt": "2026-10-20T00:22:15-03:00",
+  "currency": "USD",
+  "testingTotalCap": 15,
+  "productionMonthlyCap": 30,
+  "scope": "SUPER SCI-Z API consumption; all agents, retries and provider tools combined within each budget",
+  "authorization": "Explicit owner authorization in this conversation",
+  "credentialsAndGoLiveAuthorized": true,
+  "controlsStatus": "requirements_recorded_not_enforced",
+  "requirements": [
+    "Separate test and production accounting; test budget never resets per retry or deployment.",
+    "Before dispatch, atomically reserve an upper bound for request cost including output/reasoning tokens and billed tools; do not dispatch if remaining budget cannot cover it.",
+    "Reconcile actual costs and retain reservations for requests with unknown outcome; prevent concurrent overspending.",
+    "Stop new paid work before the cap, persist checkpoint, and report budget blockage; no automatic budget increase.",
+    "Provider alerts alone are not enforcement. Configure provider hard limits where available plus application controls and safety margin.",
+    "No new hosting subscriptions or upgrades authorized by this API budget."
+  ]
+}
