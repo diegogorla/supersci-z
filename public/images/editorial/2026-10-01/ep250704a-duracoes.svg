@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Duas durações observadas em EP250704a</title>
+  <desc id="desc">Infográfico original com duas escalas explicitamente diferentes. O pulso em raios gama durou cerca de 0,4 segundo; a atividade em raios X moles durou cerca de 560 segundos. As barras mostram a duração.</desc>
+  <rect width="1600" height="900" fill="#0b1729"/>
+  <rect x="64" y="58" width="1472" height="784" rx="32" fill="#13243b" stroke="#416079" stroke-width="2"/>
+  <text x="112" y="130" fill="#a8d9e8" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">COSMOS · EP250704a / GRB 250704B</text>
+  <text x="112" y="198" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="700">O clarão curto teve uma fase longa</text>
+  <text x="112" y="246" fill="#cedeea" font-family="Arial, sans-serif" font-size="24">Mesmo evento, duas faixas de energia. Escalas independentes abaixo.</text>
+
+  <rect x="112" y="298" width="1376" height="202" rx="20" fill="#1b3049"/>
+  <text x="148" y="352" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="700">RAIOS GAMA</text>
+  <text x="1452" y="352" fill="#ffce83" text-anchor="end" font-family="Arial, sans-serif" font-size="30" font-weight="700">cerca de 0,4 s</text>
+  <text x="148" y="394" fill="#c7dbe9" font-family="Arial, sans-serif" font-size="20">Escala: 0 a 1 segundo</text>
+  <line x1="184" y1="449" x2="1384" y2="449" stroke="#8ca9bf" stroke-width="3"/>
+  <rect x="184" y="426" width="480" height="46" rx="9" fill="#ffb557"/>
+  <line x1="184" y1="416" x2="184" y2="482" stroke="#ffffff" stroke-width="2"/>
+  <line x1="664" y1="416" x2="664" y2="482" stroke="#ffffff" stroke-width="2"/>
+  <line x1="1384" y1="416" x2="1384" y2="482" stroke="#ffffff" stroke-width="2"/>
+  <text x="184" y="491" fill="#d8e7f1" font-family="Arial, sans-serif" font-size="18">0 s</text>
+  <text x="664" y="491" fill="#d8e7f1" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">0,4 s</text>
+  <text x="1384" y="491" fill="#d8e7f1" text-anchor="end" font-family="Arial, sans-serif" font-size="18">1 s</text>
+
+  <rect x="112" y="522" width="1376" height="202" rx="20" fill="#1b3049"/>
+  <text x="148" y="576" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="700">RAIOS X MOLES</text>
+  <text x="1452" y="576" fill="#80e3d0" text-anchor="end" font-family="Arial, sans-serif" font-size="30" font-weight="700">cerca de 560 s</text>
+  <text x="148" y="618" fill="#c7dbe9" font-family="Arial, sans-serif" font-size="20">Escala: 0 a 600 segundos</text>
+  <line x1="184" y1="673" x2="1384" y2="673" stroke="#8ca9bf" stroke-width="3"/>
+  <rect x="184" y="650" width="1120" height="46" rx="9" fill="#59cdb9"/>
+  <line x1="184" y1="640" x2="184" y2="706" stroke="#ffffff" stroke-width="2"/>
+  <line x1="1304" y1="640" x2="1304" y2="706" stroke="#ffffff" stroke-width="2"/>
+  <line x1="1384" y1="640" x2="1384" y2="706" stroke="#ffffff" stroke-width="2"/>
+  <text x="184" y="715" fill="#d8e7f1" font-family="Arial, sans-serif" font-size="18">0 s</text>
+  <text x="1304" y="715" fill="#d8e7f1" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">560 s</text>
+  <text x="1384" y="715" fill="#d8e7f1" text-anchor="end" font-family="Arial, sans-serif" font-size="18">600 s</text>
+
+  <text x="112" y="778" fill="#ffffff" font-family="Arial, sans-serif" font-size="23" font-weight="700">A janela em raios X foi cerca de 1.400 vezes mais longa.</text>
+  <text x="112" y="813" fill="#b8cbda" font-family="Arial, sans-serif" font-size="17">As barras mostram a duração. Valores aproximados. Fonte: Li et al., Science Bulletin, DOI 10.1016/j.scib.2026.08.021.</text>
+</svg>

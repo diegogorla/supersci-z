@@ -1,0 +1,49 @@
+
+/* The orbital logo is the final Z of the magazine name. */
+.wordmark { --wordmark-size: clamp(38px, 5vw, 62px); display: inline-flex; flex-direction: column; width: fit-content; max-width: 100%; gap: .35rem; color: var(--acid); text-decoration: none; }
+.wordmark-name { display: flex; align-items: baseline; gap: .07em; font: 950 var(--wordmark-size)/.9 Arial, Helvetica, sans-serif; letter-spacing: -.055em; white-space: nowrap; }
+.wordmark-super { font-size: .34em; font-weight: 800; letter-spacing: -.055em; color: var(--white); }
+.wordmark-science { display: inline-flex; align-items: center; font: inherit; }
+.wordmark .wordmark-orbital { width: 1.18em; height: 1.18em; margin-left: -.055em; object-fit: contain; flex: none; }
+.wordmark-tagline { font: italic 500 15px/1.25 Georgia, "Times New Roman", serif; letter-spacing: .01em; color: #e1e8e9; }
+.wordmark:focus-visible { outline: 3px solid var(--cyan); outline-offset: 7px; }
+.wordmark-masthead { --wordmark-size: clamp(64px, 12vw, 160px); gap: .1rem; }
+.wordmark-masthead .wordmark-tagline { font-size: clamp(19px, 3vw, 34px); }
+.wordmark-footer { --wordmark-size: clamp(38px, 4.5vw, 65px); }
+.masthead-title { margin: 0; min-width: 0; }
+.brand-row { padding-top: 22px; padding-bottom: 24px; }
+.article-header, .legal-header { flex-wrap: wrap; gap: 20px; }
+.magazine-intro { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 28px 5vw 34px; background: var(--ink); color: var(--white); border-bottom: 1px solid var(--line-dark); }
+.magazine-intro-kicker { color: #bac8ca; font: 700 13px/1.4 var(--font-mono); letter-spacing: .1em; }
+.magazine-intro p { margin: 12px 0 0; font: 500 clamp(28px, 4vw, 49px)/1.08 Georgia, "Times New Roman", serif; letter-spacing: -.025em; text-wrap: balance; }
+.magazine-subscribe { display: inline-flex; align-items: center; justify-content: center; gap: 18px; flex: none; min-height: 48px; padding: 13px 20px; color: #071013; background: var(--acid); font-size: 16px; font-weight: 800; }
+.magazine-subscribe:focus-visible { outline: 3px solid var(--cyan); outline-offset: 4px; }
+.magazine-intro + .latest-block { padding-top: 48px; }
+.subscription-page .legal-document { max-width: 1160px; padding-top: 54px; gap: 28px; }
+.subscription-page .legal-heading { max-width: 940px; }
+.subscription-page .legal-heading h1 { font-size: clamp(38px, 5.2vw, 66px); line-height: 1.04; letter-spacing: -.035em; }
+.subscription-page .legal-heading p { max-width: 780px; font-size: clamp(20px, 2.4vw, 28px); line-height: 1.4; }
+.subscription-page .legal-heading p a { text-decoration: underline; text-underline-offset: .18em; }
+.subscription-page .legal-heading p sup { margin-left: .15em; }
+.subscription-page .legal-heading p a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+.subscription-page .legal-copy .conversion-intro :is(p, li) { color: #d5dfe1; }
+.subscription-page .conversion-intro h2 { color: #f5f7ef; }
+.subscription-page .conversion-intro > span { color: #6ce7ec; font-size: 14px; }
+.subscription-page .conversion-intro .trust-row { color: #d5dfe1; }
+#acesso-gratuito { scroll-margin-top: 28px; }
+@media (max-width: 640px) {
+  .wordmark-masthead { --wordmark-size: clamp(58px, 13vw, 80px); }
+  .wordmark-masthead .wordmark-tagline { font-size: clamp(17px, 4vw, 23px); }
+  .magazine-intro { align-items: flex-start; flex-direction: column; padding: 24px 20px 28px; }
+  .magazine-subscribe { align-self: stretch; }
+  .brand-row { padding-inline: 20px; }
+  .subscription-page .legal-document { padding-top: 36px; }
+}
+
+.subscription-page .conversion-intro .trust-row span { color: #d5dfe1; font-size: 14px; }
+.subscription-page .conversion-intro .trust-row { border-color: #53575b; }
+.subscription-page .subscription-grid article > span { font-size: 14px; }
+.subscription-page .subscription-grid article > strong { font-size: 18px; line-height: 1.4; }
+.subscription-page .subscription-grid :is(li,p) { font-size: 16px; }
+.subscription-page .checkout-action button { min-height: 48px; font-size: 14px; line-height: 1.35; }
+.subscription-page .checkout-action small { font-size: 14px; }

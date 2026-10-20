@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1491" height="800" viewBox="0 0 1491 800" role="img" aria-labelledby="title desc">
+  <title id="title">Dos minerales de hierro creados en laboratorio, candidatos a almacenar agua en las profundidades</title>
+  <desc id="desc">Infografía de fondo oscuro. A la izquierda, un corte de la Tierra muestra dos rutas discontinuas e hipotéticas: una naranja desde el océano de magma primordial hasta la base del manto, retención de remanentes; y una azul desde la superficie hasta la base, reciclaje por subducción. A la derecha, tres paneles: 1, Fe₅O₁₂Hₓ y Fe₇O₁₂Hₓ sintetizados en laboratorio; 2, inclusión natural de otro oxihidróxido de hierro en un diamante de Juína; 3, reservorio profundo hipotético cerca del núcleo, a unos 2.900 kilómetros.</desc>
+  <defs>
+    <radialGradient id="background"><stop stop-color="#12363a"/><stop offset="1" stop-color="#071a20"/></radialGradient>
+    <radialGradient id="mantle"><stop stop-color="#69824e"/><stop offset="1" stop-color="#395c3c"/></radialGradient>
+    <radialGradient id="outercore"><stop stop-color="#ffae55"/><stop offset="1" stop-color="#f9694b"/></radialGradient>
+    <radialGradient id="innercore"><stop stop-color="#faff75"/><stop offset="1" stop-color="#c8fa3e"/></radialGradient>
+    <linearGradient id="diamond" x2="1" y2="1"><stop stop-color="#e9fcff"/><stop offset=".5" stop-color="#81bfdd"/><stop offset="1" stop-color="#effbff"/></linearGradient>
+    <pattern id="grid" width="73" height="67" patternUnits="userSpaceOnUse"><path d="M 73 0 H 0 V 67" fill="none" stroke="#466269" stroke-width="1" opacity=".31"/></pattern>
+    <marker id="arrowOrange" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M1 1L9 5 1 9Z" fill="#ff8252" stroke="#04171d" stroke-width="1"/></marker>
+    <marker id="arrowCyan" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M1 1L9 5 1 9Z" fill="#62e1e0" stroke="#04171d" stroke-width="1"/></marker>
+    <style>text{font-family:"Noto Sans",Arial,Helvetica,sans-serif;font-weight:700;fill:#f2f9f7} .small{font-size:17px} .label{font-size:22px} .head{font-size:25px;fill:#dcfb68} .body{font-size:23px} .num{font-size:38px;fill:#061a20} .cyan{fill:#65e5e1} .orange{fill:#ff8958} .muted{fill:#dbe9e9}</style>
+  </defs>
+  <rect width="1491" height="800" fill="url(#background)"/>
+  <rect width="1491" height="800" fill="url(#grid)"/>
+  <!-- Cross-section. This is a conceptual schematic, not a scale drawing. -->
+  <circle cx="349" cy="440" r="275" fill="#0a3945" stroke="#69e6e3" stroke-width="3"/>
+  <circle cx="349" cy="440" r="239" fill="url(#mantle)" stroke="#061a20" stroke-width="2"/>
+  <path d="M 555 319 A 239 239 0 0 1 481 639 L 439 590 A 181 181 0 0 0 502 351 Z" fill="#ff6852" opacity=".94"/>
+  <circle cx="345" cy="488" r="139" fill="url(#outercore)" stroke="#061a20" stroke-width="2"/>
+  <circle cx="345" cy="488" r="73" fill="url(#innercore)" stroke="#061a20" stroke-width="2"/>
+  <!-- Two independently hypothesized routes; arrows end at the core-mantle vicinity. -->
+  <path d="M 211 193 C 184 275 204 351 278 439" fill="none" stroke="#071a20" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 211 193 C 184 275 204 351 278 439" fill="none" stroke="#ff8958" stroke-width="7" stroke-dasharray="17 11" stroke-linecap="round" marker-end="url(#arrowOrange)"/>
+  <path d="M 436 177 C 480 265 461 350 399 431" fill="none" stroke="#071a20" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 436 177 C 480 265 461 350 399 431" fill="none" stroke="#65e5e1" stroke-width="7" stroke-dasharray="17 11" stroke-linecap="round" marker-end="url(#arrowCyan)"/>
+  <circle cx="211" cy="193" r="13" fill="#ff8958"/>
+  <circle cx="436" cy="177" r="13" fill="#65e5e1"/>
+  <g fill="#071a20" stroke-width="2.5">
+    <rect x="51" y="98" width="267" height="59" rx="11" stroke="#ff8958"/>
+    <rect x="401" y="94" width="246" height="60" rx="11" stroke="#65e5e1"/>
+    <rect x="150" y="263" width="216" height="72" rx="10" stroke="#ff8958"/>
+    <rect x="476" y="299" width="124" height="35" rx="8" stroke="#65e5e1"/>
+    <rect x="228" y="229" width="113" height="31" rx="7" stroke="#ff8958"/>
+  </g>
+  <text class="label orange" x="184" y="135" text-anchor="middle" textLength="241" lengthAdjust="spacingAndGlyphs">OCÉANO DE MAGMA PRIMORDIAL</text>
+  <text class="label cyan" x="524" y="131" text-anchor="middle" textLength="217" lengthAdjust="spacingAndGlyphs">RECICLAJE POR SUBDUCCIÓN</text>
+  <text class="label orange" x="258" y="308" text-anchor="middle" textLength="183" lengthAdjust="spacingAndGlyphs">RETENCIÓN DE REMANENTES</text>
+  <text class="small orange" x="284" y="250" text-anchor="middle">HIPÓTESIS</text>
+  <text class="small cyan" x="538" y="323" text-anchor="middle">HIPÓTESIS</text>
+  <!-- Evidentiary panels are separate: a laboratory result, a distinct natural phase, and an inference. -->
+  <path d="M624 388h44v-112h29 M624 436h73" fill="none" stroke="#ff7151" stroke-width="3" marker-end="url(#arrowOrange)"/>
+  <g fill="#071d24" stroke-width="3">
+    <rect x="711" y="183" width="746" height="153" rx="23" stroke="#65e5e1"/>
+    <rect x="711" y="365" width="746" height="148" rx="23" stroke="#ff7356"/>
+    <rect x="711" y="542" width="746" height="150" rx="23" stroke="#d8fa4b"/>
+  </g>
+  <circle cx="760" cy="260" r="33" fill="#65e5e1"/><circle cx="760" cy="438" r="33" fill="#ff7356"/><circle cx="760" cy="617" r="33" fill="#d8fa4b"/>
+  <text class="num" x="760" y="273" text-anchor="middle">1</text><text class="num" x="760" y="451" text-anchor="middle">2</text><text class="num" x="760" y="630" text-anchor="middle">3</text>
+  <path d="M975 208v103 M975 390v98 M975 565v100" stroke="#8da3a7" stroke-width="2"/>
+  <!-- Faceted icons identify specimens; no false quantitative scale is implied. -->
+  <path d="M836 233l17-18h59l17 18-47 44z M853 215l29 62 30-62 M836 233h93" fill="url(#diamond)" stroke="#ecfcff" stroke-width="2" opacity=".9"/>
+  <path d="M849 298l12-15h41l13 15-33 22z M861 283l21 37 20-37 M849 298h66" fill="url(#diamond)" stroke="#ecfcff" stroke-width="2"/>
+  <path d="M838 430l29-29h44l30 29-51 63z M867 401l23 92 21-92 M838 430h103 M867 401l-29 29 52 63 51-63-30-29" fill="url(#diamond)" stroke="#eefaff" stroke-width="2"/>
+  <path d="M823 692 A 103 103 0 0 0 748 582 A 130 130 0 0 1 858 692" fill="#f37448" stroke="#ecf567" stroke-width="4"/>
+  <g stroke="#ff8a62" stroke-width="2" fill="#ff7356"><path d="M850 586l42-9 31 14-1 49-46 11-26-20z M850 586l26 17 16-26 M876 603l47-12 M876 603v48 M876 651l46-11 M850 631l26-28" fill="none"/><circle cx="850" cy="586" r="7"/><circle cx="892" cy="577" r="7"/><circle cx="923" cy="591" r="7"/><circle cx="922" cy="640" r="7"/><circle cx="876" cy="651" r="7"/><circle cx="850" cy="631" r="7"/><circle cx="876" cy="603" r="7"/></g>
+  <text class="head" x="1008" y="243" textLength="415" lengthAdjust="spacingAndGlyphs">SINTETIZADO EN LABORATORIO</text>
+  <text class="body" x="1008" y="293">Fe₅O₁₂Hₓ · Fe₇O₁₂Hₓ</text>
+  <text class="head" x="1008" y="428" textLength="394" lengthAdjust="spacingAndGlyphs">INCLUSIÓN NATURAL — JUÍNA</text>
+  <text class="body muted" x="1008" y="470" textLength="399" lengthAdjust="spacingAndGlyphs">OTRO OXIHIDRÓXIDO DE HIERRO</text>
+  <text class="head" x="1008" y="606" textLength="420" lengthAdjust="spacingAndGlyphs">HIPÓTESIS: RESERVORIO PROFUNDO</text>
+  <text class="body muted" x="1008" y="649">CERCA DEL NÚCLEO · ≈ 2.900 km</text>
+  <rect x="27" y="686" width="182" height="86" rx="10" fill="#071a20" stroke="#65e5e1"/>
+  <circle cx="61" cy="713" r="12" fill="#d8fa4b"/>
+  <text class="small" x="98" y="720">OBSERVADO</text>
+  <path d="M44 745h34" stroke="#ff8958" stroke-width="5" stroke-dasharray="10 6"/>
+  <text class="small" x="98" y="752">HIPÓTESIS</text>
+</svg>

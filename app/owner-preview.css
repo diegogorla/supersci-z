@@ -1,0 +1,25 @@
+.owner-preview { margin: 20px auto; padding: clamp(20px,3vw,34px); width: min(1400px,calc(100% - 32px)); border: 1px solid #dbff00; border-radius: 20px; background: #090e17; color: #f4f7ff; box-shadow: 0 0 26px #d9ff0018; font-size: 17px; }
+.owner-preview h2 { margin: 8px 0; color: #f4f7ff; font-size: clamp(23px,3vw,32px); line-height: 1.25; }
+.owner-preview p { color: #c6d6ea; line-height: 1.6; margin: 8px 0; max-width: 95ch; }
+.owner-preview-eyebrow { color: #dbff00; font-size: 14px; letter-spacing: .08em; font-weight: 800; }
+.owner-preview-heading { display: flex; gap: 24px; justify-content: space-between; align-items: start; flex-wrap: wrap; }
+.owner-preview-form { display: flex; align-items: end; gap: 16px; flex-wrap: wrap; margin-top: 20px; }
+.owner-preview-form label { display: grid; gap: 8px; color: #f4f7ff; font-weight: 650; }
+.owner-preview select { min-height: 48px; border: 1px solid #50b8ff; border-radius: 10px; padding: 10px 14px; color: #f4f7ff; background: #111d31; font: inherit; }
+.owner-preview button { min-height: 48px; padding: 10px 18px; border: 1px solid #dbff00; border-radius: 10px; background: #dbff00; color: #101700; font: inherit; font-weight: 800; cursor: pointer; }
+.owner-preview button:disabled { opacity: .6; cursor: wait; }
+.owner-preview a { color: #6dccff; padding: 12px 4px; font-weight: 700; text-decoration: underline; }
+.owner-preview .owner-preview-check { display: flex; flex-direction: row; gap: 10px; align-items: center; min-height: 48px; max-width: 300px; }
+.owner-preview-check input { width: 22px; height: 22px; accent-color: #dbff00; flex: none; }
+.owner-preview-facts { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 12px; }
+.owner-preview-facts span { padding: 10px 14px; border-radius: 9px; color: #8bd8ff; background: #132437; }
+.owner-preview .owner-preview-footnote { font-size: 16px; }
+.owner-preview .owner-preview-error { color: #ff737d; }
+.owner-preview :is(button,select,input,a):focus-visible { outline: 3px solid #4dbbff; outline-offset: 4px; }
+.owner-preview-account-note { width: min(1100px,calc(100% - 32px)); margin: 22px auto; padding: 20px; border-radius: 12px; background: #0b2030; border: 1px solid #3cb8ff; color: #eef8ff; font-size: 18px; line-height: 1.6; }
+.owner-preview-ad { width: min(1140px,calc(100% - 32px)); margin: 26px auto; min-height: 180px; padding: 24px; display: grid; place-content: center; gap: 12px; text-align: center; background: repeating-linear-gradient(135deg,#0e1724,#0e1724 16px,#121f30 16px,#121f30 32px); border: 2px dashed #61caff; border-radius: 16px; color: #f4f7ff; }
+.owner-preview-ad span { color: #dbff00; font-size: 14px; font-weight: 800; letter-spacing: .08em; }
+.owner-preview-ad strong { color: #f4f7ff; font-size: 23px; }
+.owner-preview-ad p { color: #c6d6ea; font-size: 17px; line-height: 1.5; margin: 0; }
+.owner-preview-ad-article { width: 100%; }
+@media(max-width:600px) { .owner-preview-form { align-items: stretch; flex-direction: column; } .owner-preview-form select,.owner-preview button { width: 100%; } .owner-preview-heading { gap: 12px; } .owner-preview-facts { flex-direction: column; } }

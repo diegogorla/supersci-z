@@ -1,0 +1,614 @@
+{
+  "salto-quantico-fonon-chip-edicao-extraordinaria-2026": {
+    "en": {
+      "directUrl": "https://supersci-z.com/images/editorial/salto-quantico-fonon.png",
+      "altText": "Three-panel editorial diagram. First, a resonator is marked n=1; second, a qubit makes repeated readings; third, a schematic trajectory drops abruptly from n=1 to n=0 over time.",
+      "caption": "Diagram of the experiment: panel 1 marks preparation at n=1; panel 2 represents repeated qubit readings; panel 3 shows the inferred trajectory to n=0. The line is schematic, not a reproduction of experimental data.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "es": {
+      "directUrl": "https://supersci-z.com/images/editorial/salto-quantico-fonon.png",
+      "altText": "Diagrama editorial de tres paneles. Primero, un resonador marcado n=1; después, un cúbit realiza lecturas repetidas; por último, una trayectoria esquemática cae bruscamente de n=1 a n=0 con el tiempo.",
+      "caption": "Diagrama del experimento: el panel 1 indica la preparación en n=1; el panel 2 representa las lecturas repetidas del cúbit; el panel 3 muestra la trayectoria inferida hasta n=0. La línea es esquemática, no reproduce datos experimentales.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "hi": {
+      "directUrl": "https://supersci-z.com/images/editorial/salto-quantico-fonon.png",
+      "altText": "तीन खंडों वाला संपादकीय आरेख। पहले में n=1 अंकित अनुनादक, दूसरे में क्यूबिट की बार-बार रीडिंग और तीसरे में समय के साथ n=1 से n=0 पर अचानक गिरता योजनाबद्ध पथ है।",
+      "caption": "प्रयोग का आरेख: खंड 1 में n=1 पर तैयारी, खंड 2 में क्यूबिट की बार-बार रीडिंग और खंड 3 में n=0 तक अनुमानित पथ है। रेखा योजनाबद्ध है, प्रयोग के डेटा की प्रतिकृति नहीं।",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ja": {
+      "directUrl": "https://supersci-z.com/images/editorial/salto-quantico-fonon.png",
+      "altText": "3コマの編集図。1コマ目はn=1の共振器、2コマ目は量子ビットによる反復読み出し、3コマ目は時間とともにn=1からn=0へ急に落ちる模式的な軌跡。",
+      "caption": "実験の模式図。第1コマはn=1への準備、第2コマは量子ビットの反復読み出し、第3コマはn=0への推定軌跡を示す。線は模式的で、実験データの再現ではない。",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "pt": {
+      "directUrl": "https://supersci-z.com/images/editorial/salto-quantico-fonon.png",
+      "altText": "Diagrama editorial em três painéis. O primeiro mostra um ressonador em n igual a 1; o segundo, leituras repetidas por qubit; o terceiro, uma trajetória esquemática que passa para n igual a 0 ao longo do tempo.",
+      "caption": "Esquema do experimento: o painel 1 marca a preparação em n=1; o painel 2 representa leituras repetidas pelo qubit; o painel 3 mostra a trajetória inferida até n=0. O traço é esquemático, não uma reprodução de dados experimentais.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ru": {
+      "directUrl": "https://supersci-z.com/images/editorial/salto-quantico-fonon.png",
+      "altText": "Редакционная схема из трёх панелей. Сначала резонатор с обозначением n=1, затем многократные считывания кубитом, а в конце схематическая траектория, резко падающая со временем от n=1 к n=0.",
+      "caption": "Схема эксперимента: панель 1 показывает подготовку состояния n=1; панель 2 — повторные считывания кубитом; панель 3 — восстановленную траекторию к n=0. Линия условная и не воспроизводит экспериментальные данные.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "zh": {
+      "directUrl": "https://supersci-z.com/images/editorial/salto-quantico-fonon.png",
+      "altText": "三栏编辑示意图：第一栏为标记 n=1 的谐振器；第二栏为量子比特重复读取；第三栏为随时间从 n=1 突然降至 n=0 的示意轨迹。",
+      "caption": "实验示意图：第 1 栏标出 n=1 的初态制备；第 2 栏表示量子比特的重复读数；第 3 栏展示推断出到达 n=0 的轨迹。曲线仅为示意，并非实验数据的复现。",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    }
+  },
+  "minerais-hidrogenio-manto-profundo-edicao-extraordinaria-2026": {
+    "pt": {
+      "directUrl": "https://supersci-z.com/images/editorial/hidrogenio-manto-profundo.png",
+      "altText": "Infográfico em fundo escuro. À esquerda, um corte da Terra mostra duas rotas tracejadas separadas, ambas marcadas como hipótese: uma laranja, do oceano de magma primordial à base do manto, identificada como retenção remanescente; outra azul, da superfície à base do manto, identificada como reciclagem por subducção. À direita, três painéis: 1, fases Fe₅O₁₂Hₓ e Fe₇O₁₂Hₓ sintetizadas em laboratório; 2, inclusão natural em diamante de Juína de outro oxihidróxido de ferro; 3, hipótese de reservatório profundo junto ao núcleo, a cerca de 2.900 quilômetros.",
+      "caption": "Diagrama editorial separa três níveis de evidência: 1, as fases Fe₅O₁₂Hₓ e Fe₇O₁₂Hₓ sintetizadas em laboratório; 2, a inclusão natural de outro oxihidróxido de ferro em diamante de Juína; 3, um reservatório profundo junto ao núcleo, ainda hipotético. As rotas tracejadas de retenção remanescente do oceano de magma primordial e de reciclagem por subducção são hipóteses distintas. Os números 1, 2 e 3 identificam, respectivamente, a síntese em laboratório, a inclusão natural e o reservatório hipotético; linhas tracejadas indicam rotas propostas, não observadas.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "en": {
+      "directUrl": "https://supersci-z.com/images/editorial/deep-mantle-hydrogen-en.svg",
+      "altText": "Dark-background infographic. At left, a cross-section of Earth shows two separate dashed routes, both marked as hypotheses: an orange route from the primordial magma ocean to the base of the mantle, labeled remnant retention; and a blue route from the surface to the base of the mantle, labeled recycling by subduction. At right, three panels: 1, the Fe₅O₁₂Hₓ and Fe₇O₁₂Hₓ phases synthesized in the laboratory; 2, a natural inclusion of another iron oxyhydroxide in a Juína diamond; 3, a hypothetical deep reservoir near the core, at about 2,900 kilometers.",
+      "caption": "The editorial diagram separates three levels of evidence: 1, the Fe₅O₁₂Hₓ and Fe₇O₁₂Hₓ phases synthesized in the laboratory; 2, a natural inclusion of another iron oxyhydroxide in a Juína diamond; 3, a deep reservoir near the core, still hypothetical. The dashed routes for remnant retention from the primordial magma ocean and recycling by subduction are distinct hypotheses. Numbers 1, 2 and 3 mark laboratory synthesis, the natural inclusion and the hypothetical reservoir, respectively; dashed lines indicate proposed routes, not observed paths.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "es": {
+      "directUrl": "https://supersci-z.com/images/editorial/deep-mantle-hydrogen-es.svg",
+      "altText": "Infografía de fondo oscuro. A la izquierda, un corte de la Tierra muestra dos rutas discontinuas hipotéticas: una naranja, del océano de magma primordial a la base del manto, llamada retención remanente; otra azul, desde la superficie a la base del manto, llamada reciclaje por subducción. A la derecha, tres paneles: las fases Fe₅O₁₂Hₓ y Fe₇O₁₂Hₓ sintetizadas en laboratorio; una inclusión natural de otro oxihidróxido de hierro en un diamante de Juína; y un reservorio profundo hipotético junto al núcleo, a unos 2900 kilómetros.",
+      "caption": "Tres niveles de evidencia: fases sintetizadas en laboratorio, inclusión natural de otro oxihidróxido en un diamante de Juína y reservorio profundo todavía hipotético. La retención remanente del océano de magma primordial y el reciclaje por subducción son hipótesis distintas. Los números 1, 2 y 3 indican, respectivamente, la síntesis en laboratorio, la inclusión natural y el reservorio hipotético; las líneas discontinuas representan rutas propuestas, no observadas.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "zh": {
+      "directUrl": "https://supersci-z.com/images/editorial/deep-mantle-hydrogen-zh.svg",
+      "altText": "深色背景的信息图。左侧地球剖面中，两条虚线分别代表假说：橙色路线从原始岩浆海通向地幔底部，表示残留保存；蓝色路线从地表通向地幔底部，表示俯冲再循环。右侧三个分区依次显示实验室合成的Fe₅O₁₂Hₓ和Fe₇O₁₂Hₓ、巴西茹伊纳钻石中另一种铁氧氢化物的天然包裹体，以及距地表约2900千米、地核旁的假设深部储库。",
+      "caption": "示意图区分三种证据层级：实验室合成相、钻石中另一种铁氧氢化物的天然包裹体，以及尚属假说的深部储库。原始岩浆海中的残留保存与俯冲再循环是不同的假说。 数字1、2、3依次表示实验室合成、天然包裹体和假设的储库；虚线表示提出的迁移路线，而非直接观测到的路径。",
+      "credit": "SUPER SCI-Z — 原创编辑示意图",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "hi": {
+      "directUrl": "https://supersci-z.com/images/editorial/deep-mantle-hydrogen-hi.svg",
+      "altText": "गहरे रंग की पृष्ठभूमि वाला जानकारी आरेख। बाएँ पृथ्वी के काट में दो अलग बिंदुदार काल्पनिक रास्ते हैं: नारंगी रेखा आदिम मैग्मा महासागर से मैंटल की तली तक अवशिष्ट संरक्षण दर्शाती है; नीली रेखा सतह से मैंटल की तली तक सबडक्शन द्वारा पुनर्चक्रण दर्शाती है। दाएँ तीन खंडों में प्रयोगशाला में बनी Fe₅O₁₂Hₓ और Fe₇O₁₂Hₓ अवस्थाएँ, जुईना के हीरे में दूसरे लौह ऑक्सीहाइड्रॉक्साइड का प्राकृतिक समावेशन, और लगभग 2,900 किलोमीटर गहराई पर क्रोड के पास एक काल्पनिक भंडार है।",
+      "caption": "आरेख प्रमाण के तीन स्तर अलग करता है: प्रयोगशाला में बनी अवस्थाएँ, जुईना के हीरे में मिले दूसरे ऑक्सीहाइड्रॉक्साइड का प्राकृतिक समावेशन, और अभी काल्पनिक गहरा भंडार। आदिम मैग्मा महासागर से बचा पदार्थ और सबडक्शन द्वारा पुनर्चक्रण दो अलग परिकल्पनाएँ हैं। अंक 1, 2 और 3 क्रमशः प्रयोगशाला में संश्लेषण, प्राकृतिक समावेशन और काल्पनिक भंडार दर्शाते हैं; टूटी रेखाएँ प्रस्तावित रास्ते हैं, देखे गए रास्ते नहीं।",
+      "credit": "SUPER SCI-Z — मूल संपादकीय आरेख",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ja": {
+      "directUrl": "https://supersci-z.com/images/editorial/deep-mantle-hydrogen-ja.svg",
+      "altText": "暗い背景のインフォグラフィック。左の地球断面には仮説を示す2本の破線があり、橙色は原始マグマオーシャンからマントル底部への残留保持、青色は地表から底部への沈み込みによる再循環を示す。右の3区画には、実験室で合成されたFe₅O₁₂HₓとFe₇O₁₂Hₓ、ジュイナ産ダイヤモンド中の別の鉄オキシ水酸化物の天然包有物、深さ約2900キロメートルで核に近い仮説上の深部貯蔵領域が描かれる。",
+      "caption": "図は証拠の3段階を区別する。実験室で合成された相、ジュイナ産ダイヤモンドの別種オキシ水酸化物の天然包有物、そしてまだ仮説にとどまる深部貯蔵領域だ。原始マグマオーシャンからの残留保持と沈み込みによる再循環は異なる仮説である。 番号1、2、3は順に実験室での合成、天然の包有物、仮説上の貯蔵域を表す。破線は観測された経路ではなく、提案された経路を示す。",
+      "credit": "SUPER SCI-Z — オリジナル編集図",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ru": {
+      "directUrl": "https://supersci-z.com/images/editorial/deep-mantle-hydrogen-ru.svg",
+      "altText": "Инфографика на тёмном фоне. Слева разрез Земли с двумя отдельными пунктирными гипотетическими путями: оранжевый идёт от первичного магматического океана к основанию мантии и означает остаточное сохранение; синий идёт от поверхности к основанию мантии и означает переработку при субдукции. Справа три панели: фазы Fe₅O₁₂Hₓ и Fe₇O₁₂Hₓ, полученные в лаборатории; природное включение другого оксигидроксида железа в алмазе из Жуины; гипотетический глубокий резервуар у ядра на глубине около 2900 километров.",
+      "caption": "Схема различает три уровня доказательств: синтезированные в лаборатории фазы, природное включение другого оксигидроксида в алмазе из Жуины и пока гипотетический глубокий резервуар. Остаточное сохранение вещества первичного магматического океана и повторное погружение при субдукции — разные гипотезы. Номера 1, 2 и 3 обозначают соответственно лабораторный синтез, природное включение и гипотетический резервуар; пунктир показывает предполагаемые, а не наблюдавшиеся пути.",
+      "credit": "SUPER SCI-Z — оригинальная редакционная схема",
+      "sourcePageUrl": "https://supersci-z.com"
+    }
+  },
+  "cristais-sem-moleculas-quirais-formam-fitas-torcidas": {
+    "pt": {
+      "altText": "Esquema de uma fita cristalina: duas faces de uma camada puxam em direções diferentes; ao crescer, a fita plana se torce. Setas indicam tensão, não medida experimental.",
+      "caption": "Camadas com tendências de deformação incompatíveis acumulam tensão; sua liberação pode torcer uma fita. Esquema conceitual original, sem escala e sem reproduzir uma micrografia.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/crystal-pt.png"
+    },
+    "en": {
+      "altText": "Conceptual diagram of a crystal ribbon: the two faces of its layered structure favor incompatible deformations, and the growing ribbon twists. Arrows indicate opposing tendencies, not measured forces.",
+      "caption": "Incompatible deformation within layered crystals can store strain that is partly relieved by twisting. Original conceptual diagram, not to scale; it does not reproduce a micrograph.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/crystal-en.png"
+    },
+    "es": {
+      "altText": "Esquema conceptual de una cinta cristalina: las dos caras de la estructura laminada favorecen deformaciones incompatibles y la cinta se tuerce al crecer. Las flechas indican tendencias opuestas, no fuerzas medidas.",
+      "caption": "Una deformación incompatible dentro de cristales laminados puede almacenar tensión que se libera en parte mediante la torsión. Esquema conceptual original, sin escala; no reproduce una micrografía.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/crystal-es.png"
+    },
+    "zh": {
+      "altText": "原创概念图：层状晶体两面偏向不相容的变形，生长中的晶带因此扭转。箭头表示相反倾向，不是实测的力。",
+      "caption": "晶体层内不相容的变形可积累应变，扭转能释放其中一部分。原创概念示意图，不按比例，也不是论文显微照片。",
+      "credit": "SUPER SCI-Z — 原创编辑示意图",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/crystal-zh.png"
+    },
+    "hi": {
+      "altText": "क्रिस्टल पट्टी का अवधारणात्मक चित्र: परतदार संरचना की दो सतहें असंगत विरूपण चाहती हैं, इसलिए बढ़ती पट्टी मुड़ती है। तीर विपरीत प्रवृत्तियाँ दिखाते हैं, मापा गया बल नहीं।",
+      "caption": "परतदार क्रिस्टल में दोनों सतहों के पसंदीदा विरूपण की असंगति से सपाट पट्टी में यांत्रिक तनाव और प्रत्यास्थ ऊर्जा जमा हो सकती है; मुड़ने पर संचित ऊर्जा का कुछ हिस्सा मुक्त हो सकता है। मूल अवधारणात्मक चित्र; मापानुसार नहीं और किसी सूक्ष्मचित्र की नकल नहीं।",
+      "credit": "SUPER SCI-Z — मूल संपादकीय आरेख",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/crystal-hi.png"
+    },
+    "ja": {
+      "altText": "結晶の帯の概念図。層構造の両面が相容れない変形を好むため、成長する帯がねじれる。矢印は逆向きの傾向であり、測定された力ではない。",
+      "caption": "層状結晶の相容れない変形でひずみが蓄積し、ねじれによって一部が解放されうる。独自制作の概念図。縮尺はなく、顕微鏡写真の複製でもない。",
+      "credit": "SUPER SCI-Z — 独自制作の編集図解",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/crystal-ja.png"
+    },
+    "ru": {
+      "altText": "Концептуальная схема кристаллической ленты: две стороны слоистой структуры стремятся деформироваться несовместимым образом, поэтому растущая лента скручивается. Стрелки показывают тенденции, а не измеренные силы.",
+      "caption": "Несовместимые деформации в слоистом кристалле могут накапливать напряжение; скручивание снимает его часть. Оригинальная концептуальная схема без масштаба, не копия микрофотографии.",
+      "credit": "SUPER SCI-Z — оригинальная редакционная схема",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/crystal-ru.png"
+    }
+  },
+  "janelas-de-ondas-calmas-ajudam-mangues-a-ocupar-costas-abertas": {
+    "pt": {
+      "altText": "Esquema de costa aberta com propágulo de mangue: ondas intensas podem deslocá-lo; uma sequência de ondas menores permite enraizamento; outros fatores também importam.",
+      "caption": "A janela de ondas menos intensas dá tempo para o propágulo, estrutura de dispersão do mangue, se fixar. Esquema conceitual original, sem limiares numéricos; sedimento, salinidade e alterações humanas também influem.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/mangrove-pt.png"
+    },
+    "en": {
+      "altText": "Conceptual diagram of an open coast: stronger waves may dislodge a mangrove propagule; a calmer interval can allow a young plant to anchor. Other environmental factors also matter.",
+      "caption": "A calmer interval gives a propagule, a mangrove dispersal structure, time to take root. Original conceptual diagram with no numerical thresholds or scale; sediment, salinity and human changes also affect establishment.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/mangrove-en.png"
+    },
+    "es": {
+      "altText": "Esquema conceptual de costa abierta: olas fuertes pueden arrancar un propágulo de manglar; un intervalo más tranquilo puede permitir que una planta joven se fije. También influyen otros factores.",
+      "caption": "Una pausa en el oleaje da al propágulo, estructura de dispersión del manglar, tiempo para echar raíces. Esquema conceptual original sin umbrales numéricos ni escala; sedimento, salinidad y alteraciones humanas también influyen.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/mangrove-es.png"
+    },
+    "zh": {
+      "altText": "原创开放海岸概念图：强浪可能冲走红树林繁殖体；海浪较弱的间隔则可能让幼苗固定。其他环境因素同样重要。",
+      "caption": "较平静的时段让繁殖体——红树林的传播结构——有时间生根。原创概念图，无数值阈值、不按比例；沉积物、盐度和人为改变也影响定居。",
+      "credit": "SUPER SCI-Z — 原创编辑示意图",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/mangrove-zh.png"
+    },
+    "hi": {
+      "altText": "खुले तट का अवधारणात्मक चित्र: तेज लहरें मैंग्रोव प्रोपैग्यूल को हटा सकती हैं; शांत अंतराल नए पौधे को टिकने दे सकता है। दूसरे पर्यावरणीय कारक भी महत्त्वपूर्ण हैं।",
+      "caption": "शांत अंतराल प्रोपैग्यूल—मैंग्रोव की फैलने वाली संरचना—को जड़ बनाने का समय देता है। मूल अवधारणात्मक चित्र, बिना संख्यात्मक सीमा और माप के; तलछट, लवणता और मानवीय बदलाव भी असर डालते हैं।",
+      "credit": "SUPER SCI-Z — मूल संपादकीय आरेख",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/mangrove-hi.png"
+    },
+    "ja": {
+      "altText": "開けた海岸の概念図。強い波はマングローブの散布体を流しうるが、穏やかな期間には若い植物が根づける可能性がある。他の環境条件も重要。",
+      "caption": "穏やかな期間はマングローブの散布体、つまり広がって新しい植物になる構造に根を出す時間を与える。独自制作の概念図で、数値のしきい値や縮尺はない。堆積物、塩分、人為的な変化も影響する。",
+      "credit": "SUPER SCI-Z — 独自制作の編集図解",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/mangrove-ja.png"
+    },
+    "ru": {
+      "altText": "Концептуальная схема открытого берега: сильные волны могут унести мангровую пропагулу, а спокойный промежуток позволяет молодому растению закрепиться. Важны и другие условия среды.",
+      "caption": "Спокойный период даёт пропагуле — структуре расселения мангров — время укорениться. Оригинальная схема без масштаба и численных порогов; наносы, солёность и деятельность человека тоже влияют на закрепление.",
+      "credit": "SUPER SCI-Z — оригинальная редакционная схема",
+      "sourcePageUrl": "https://supersci-z.com",
+      "directUrl": "https://supersci-z.com/images/editorial/extra-20261001/mangrove-ru.png"
+    }
+  },
+  "explosao-gama-raios-x-einstein-probe": {
+    "pt": {
+      "altText": "Duas escalas independentes mostram, para EP250704a, o pulso gama de cerca de 0,4 segundo numa régua de um segundo e a atividade em raios X moles de cerca de 560 segundos numa régua de 600 segundos.",
+      "caption": "No evento EP250704a, a janela em raios X moles durou cerca de 1.400 vezes o pulso gama. As duas barras usam escalas de tempo distintas, identificadas em segundos.",
+      "credit": "Arte original SUPER SCI-Z; concepção e rótulos: Will de Andrade; dados: Li e colaboradores, Science Bulletin (2026)",
+      "sourcePageUrl": "https://www.sciencedirect.com/science/article/pii/S209592732600887X",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/ep250704a-duracoes.svg"
+    },
+    "en": {
+      "altText": "Two separately scaled bars show EP250704a's gamma-ray pulse of about 0.4 seconds on a one-second ruler and soft X-ray activity of about 560 seconds on a 600-second ruler.",
+      "caption": "In EP250704a, the soft X-ray window lasted about 1,400 times as long as the gamma-ray pulse. The two bars use separate time scales labeled in seconds.",
+      "credit": "Original SUPER SCI-Z artwork; concept and labels: Will de Andrade; data: Li and colleagues, Science Bulletin (2026)",
+      "sourcePageUrl": "https://www.sciencedirect.com/science/article/pii/S209592732600887X",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/ep250704a-duracoes-en.svg"
+    },
+    "es": {
+      "altText": "Dos barras con escalas distintas muestran el pulso gamma de EP250704a, de unos 0,4 segundos en una regla de un segundo, y unos 560 segundos de actividad de rayos X blandos en una regla de 600 segundos.",
+      "caption": "En EP250704a, la ventana de rayos X blandos duró unas 1.400 veces más que el pulso gamma. Las dos barras usan escalas de tiempo distintas, indicadas en segundos.",
+      "credit": "Arte original de SUPER SCI-Z; concepto y rótulos: Will de Andrade; datos: Li y colaboradores, Science Bulletin (2026)",
+      "sourcePageUrl": "https://www.sciencedirect.com/science/article/pii/S209592732600887X",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/ep250704a-duracoes-es.svg"
+    },
+    "zh": {
+      "altText": "两条独立刻度分别展示EP250704a约0.4秒的伽马脉冲（0至1秒刻度）和约560秒的软X射线活动（0至600秒刻度）。",
+      "caption": "EP250704a的软X射线观测时长约为伽马脉冲的1,400倍。两条图形使用分别标出的秒数刻度。",
+      "credit": "SUPER SCI-Z原创图；构思与标签：Will de Andrade；数据：Li等，《Science Bulletin》（2026）；字形轮廓：Noto Sans CJK SC（SIL OFL 1.1）",
+      "sourcePageUrl": "https://www.sciencedirect.com/science/article/pii/S209592732600887X",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/ep250704a-duracoes-zh-outlined.svg"
+    },
+    "hi": {
+      "altText": "दो अलग पैमानों की पट्टियाँ EP250704a का लगभग 0.4 सेकंड का गामा स्पंद एक सेकंड की रेखा पर और लगभग 560 सेकंड की मृदु एक्स-किरण गतिविधि 600 सेकंड की रेखा पर दिखाती हैं।",
+      "caption": "EP250704a में मृदु एक्स-किरण अवधि गामा स्पंद से लगभग 1,400 गुना लंबी थी। दोनों पट्टियाँ सेकंड में अंकित अलग-अलग समय-पैमाने इस्तेमाल करती हैं।",
+      "credit": "SUPER SCI-Z की मौलिक कला; अवधारणा और लेबल: Will de Andrade; आँकड़े: Li और सहकर्मी, Science Bulletin (2026); अक्षर-रूपरेखाएँ: Noto Sans Devanagari (SIL OFL 1.1)",
+      "sourcePageUrl": "https://www.sciencedirect.com/science/article/pii/S209592732600887X",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/ep250704a-duracoes-hi-outlined.svg"
+    },
+    "ja": {
+      "altText": "二つの別々の目盛りで、EP250704aの約0.4秒のガンマ線パルスを0〜1秒の軸に、約560秒の軟X線活動を0〜600秒の軸に示す。",
+      "caption": "EP250704aの軟X線の時間はガンマ線パルスの約1,400倍だった。二つの棒には、それぞれ秒で示した別々の時間目盛りを使う。",
+      "credit": "SUPER SCI-Zのオリジナル図版。構成・ラベル：Will de Andrade。データ：Liほか、Science Bulletin（2026年）；文字アウトライン：Noto Sans CJK JP（SIL OFL 1.1）",
+      "sourcePageUrl": "https://www.sciencedirect.com/science/article/pii/S209592732600887X",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/ep250704a-duracoes-ja-outlined.svg"
+    },
+    "ru": {
+      "altText": "Две отдельные шкалы показывают гамма-импульс EP250704a около 0,4 секунды на шкале 0–1 секунды и активность мягкого рентгена около 560 секунд на шкале 0–600 секунд.",
+      "caption": "В EP250704a мягкая рентгеновская фаза длилась примерно в 1 400 раз дольше гамма-импульса. Две полосы используют отдельные временные шкалы с делениями в секундах.",
+      "credit": "Оригинальная графика SUPER SCI-Z; замысел и подписи: Will de Andrade; данные: Li и соавторы, Science Bulletin (2026)",
+      "sourcePageUrl": "https://www.sciencedirect.com/science/article/pii/S209592732600887X",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/ep250704a-duracoes-ru-v2.svg"
+    }
+  },
+  "vesuvio-aferiu-relogio-geologico-argonio": {
+    "pt": {
+      "altText": "Escala linear de 1915 a 1960 anos antes de 2025 mostra a idade medida de 1.938 ± 13 anos para sanidina do Vesúvio e a referência histórica aproximada de 1.946 anos.",
+      "caption": "A idade isotópica de 1.938 ± 13 anos antes de 2025 alcança a referência histórica aproximada de 1.946 anos. A margem histórica de dois meses não é desenhada no eixo anual nem resolve o mês da erupção.",
+      "credit": "Arte original SUPER SCI-Z; concepção e rótulos: Will de Andrade; dados: Renne e colaboradores, Science Advances (2026)",
+      "sourcePageUrl": "https://www.science.org/doi/10.1126/sciadv.aeg2624",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/vesuvio-idade-argonio.svg"
+    },
+    "en": {
+      "altText": "A linear axis from 1,915 to 1,960 years before 2025 shows the measured age of Vesuvius sanidine, 1,938 ± 13 years, and the approximate historical benchmark of 1,946 years.",
+      "caption": "The 1,938 ± 13-year isotopic age before 2025 overlaps the approximate historical benchmark of 1,946 years. The two-month historical margin is not plotted on the year-scale axis and does not settle the eruption's month.",
+      "credit": "Original SUPER SCI-Z artwork; concept and labels: Will de Andrade; data: Renne and colleagues, Science Advances (2026)",
+      "sourcePageUrl": "https://www.science.org/doi/10.1126/sciadv.aeg2624",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/vesuvio-idade-argonio-en.svg"
+    },
+    "es": {
+      "altText": "Una escala lineal de 1.915 a 1.960 años antes de 2025 muestra la edad medida de la sanidina del Vesubio, 1.938 ± 13 años, y la referencia histórica aproximada de 1.946 años.",
+      "caption": "La edad isotópica de 1.938 ± 13 años antes de 2025 alcanza la referencia histórica aproximada de 1.946 años. El margen histórico de dos meses no está dibujado en el eje anual y no determina el mes de la erupción.",
+      "credit": "Arte original de SUPER SCI-Z; concepto y rótulos: Will de Andrade; datos: Renne y colaboradores, Science Advances (2026)",
+      "sourcePageUrl": "https://www.science.org/doi/10.1126/sciadv.aeg2624",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/vesuvio-idade-argonio-es.svg"
+    },
+    "zh": {
+      "altText": "从距2025年1,915年至1,960年的线性横轴显示，维苏威火山透长石的测得年龄为1,938 ± 13年，近似历史参照为1,946年。",
+      "caption": "距2025年1,938 ± 13年的同位素年龄与约1,946年的历史参照相容。两个月的历史日期余量未绘在年度横轴上，也不能据此确定喷发月份。",
+      "credit": "SUPER SCI-Z原创图；构思与标签：Will de Andrade；数据：Renne等，《Science Advances》（2026）；字形轮廓：Noto Sans CJK SC（SIL OFL 1.1）",
+      "sourcePageUrl": "https://www.science.org/doi/10.1126/sciadv.aeg2624",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/vesuvio-idade-argonio-zh-outlined.svg"
+    },
+    "hi": {
+      "altText": "2025 से पहले 1,915 से 1,960 वर्ष का रैखिक पैमाना विसुवियस सैनिडीन की मापी गई आयु 1,938 ± 13 वर्ष और लगभग 1,946 वर्ष का ऐतिहासिक संदर्भ दिखाता है।",
+      "caption": "2025 से पहले 1,938 ± 13 वर्ष की समस्थानिक आयु लगभग 1,946 वर्ष के ऐतिहासिक संदर्भ से मेल खाती है। दो महीने की ऐतिहासिक गुंजाइश वार्षिक अक्ष पर नहीं दिखाई गई है और विस्फोट का महीना तय नहीं करती।",
+      "credit": "SUPER SCI-Z की मौलिक कला; अवधारणा और लेबल: Will de Andrade; आँकड़े: Renne और सहकर्मी, Science Advances (2026); अक्षर-रूपरेखाएँ: Noto Sans Devanagari (SIL OFL 1.1)",
+      "sourcePageUrl": "https://www.science.org/doi/10.1126/sciadv.aeg2624",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/vesuvio-idade-argonio-hi-outlined.svg"
+    },
+    "ja": {
+      "altText": "2025年の分析より1,915〜1,960年前を示す線形目盛りに、ベスビオ火山のサニディンの測定年代1,938 ± 13年前と史料上の約1,946年前を示す。",
+      "caption": "同位体年代1,938 ± 13年前は、史料上の約1,946年前と整合する。史料に設けた2か月の幅は年単位の軸には描かれておらず、噴火月は確定しない。",
+      "credit": "SUPER SCI-Zのオリジナル図版。構成・ラベル：Will de Andrade。データ：Renneほか、『Science Advances』（2026年）；文字アウトライン：Noto Sans CJK JP（SIL OFL 1.1）",
+      "sourcePageUrl": "https://www.science.org/doi/10.1126/sciadv.aeg2624",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/vesuvio-idade-argonio-ja-outlined.svg"
+    },
+    "ru": {
+      "altText": "Линейная шкала от 1 915 до 1 960 лет до 2025 года показывает измеренный возраст санидина Везувия 1 938 ± 13 лет и приблизительный исторический ориентир 1 946 лет.",
+      "caption": "Изотопный возраст 1 938 ± 13 лет до 2025 года согласуется с приблизительным историческим ориентиром 1 946 лет. Исторический допуск в два месяца не нанесён на шкалу в годах и не определяет месяц извержения.",
+      "credit": "Оригинальная графика SUPER SCI-Z; замысел и подписи: Will de Andrade; данные: Renne и соавторы, Science Advances (2026)",
+      "sourcePageUrl": "https://www.science.org/doi/10.1126/sciadv.aeg2624",
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-01/vesuvio-idade-argonio-ru.svg"
+    }
+  },
+  "p53-gradiente-wnt-clones-pele-20261002-a1": {
+    "pt": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/a1-diagram-textfree-v2.svg",
+      "altText": "Diagrama original sem rótulos internos. À esquerda, um clone sem p53 apresenta atividade Wnt mais baixa nas bordas e mais alta no centro. À direita, o sinal é uniformemente alto em outro clone.",
+      "caption": "Esquema editorial, não microscopia: à esquerda, Wnt cresce da borda ao centro de um clone sem p53; à direita, Wnt é uniformemente alto. No experimento com pele de camundongo, o padrão à esquerda favoreceu mais expansão, embora o da direita tivesse maior sinal total.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "en": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/a1-diagram-textfree-v2.svg",
+      "altText": "Original diagram without embedded labels. At left, a clone lacking p53 has lower Wnt activity at its edge and higher activity at its center. At right, another clone has uniformly high Wnt activity.",
+      "caption": "Editorial diagram, not microscopy: at left, Wnt activity rises from a clone's edge toward its center; at right, Wnt activity is uniformly high. In the mouse-skin experiment, the left-hand pattern supported more expansion, although the right-hand pattern had more total signal.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "es": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/a1-diagram-textfree-v2.svg",
+      "altText": "Diagrama original sin rótulos internos. A la izquierda, un clon sin p53 muestra menor actividad de Wnt en los bordes y mayor en el centro. A la derecha, otro clon tiene actividad de Wnt uniformemente alta.",
+      "caption": "Esquema editorial, no imagen microscópica: a la izquierda, Wnt aumenta del borde al centro de un clon; a la derecha, su actividad es uniformemente alta. En la piel de ratón, el patrón de la izquierda favoreció una mayor expansión, aunque el de la derecha tenía más señal total.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "zh": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/a1-diagram-textfree-v2.svg",
+      "altText": "原创无内嵌文字示意图。左侧缺失p53的克隆边缘Wnt活性较低、中心较高；右侧另一个克隆的Wnt活性处处较高。",
+      "caption": "编辑绘制的示意图，并非显微照片：左侧Wnt活性从克隆边缘向中心升高，右侧则均匀处于较高水平。在小鼠皮肤实验中，左侧分布促进了更多扩张，尽管右侧的信号总量更高。",
+      "credit": "SUPER SCI-Z — 原创编辑示意图",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "hi": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/a1-diagram-textfree-v2.svg",
+      "altText": "भीतर कोई लिखित लेबल नहीं वाला मूल आरेख। बाईं ओर p53-विहीन क्लोन में Wnt सक्रियता किनारे पर कम और बीच में अधिक है; दाईं ओर दूसरे क्लोन में यह हर जगह समान रूप से अधिक है।",
+      "caption": "संपादकीय आरेख, सूक्ष्मदर्शी की तस्वीर नहीं: बाईं ओर Wnt सक्रियता क्लोन के किनारे से बीच की ओर बढ़ती है; दाईं ओर हर जगह अधिक है। चूहों की त्वचा के प्रयोग में बाईं ओर वाला पैटर्न अधिक फैलाव से जुड़ा था, जबकि दाईं ओर कुल संकेत अधिक था।",
+      "credit": "SUPER SCI-Z — मूल संपादकीय आरेख",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ja": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/a1-diagram-textfree-v2.svg",
+      "altText": "図中に文字を入れていない独自の模式図。左はp53を失ったクローンで、Wntの働きが縁で弱く中心で強い。右は別のクローンで、Wntが全体で一様に強い。",
+      "caption": "編集部作成の模式図で、顕微鏡写真ではない。左はクローンの縁から中心へWntの働きが強まり、右は全体で一様に強い。マウスの皮膚実験では、右のほうが信号の総量は多かったが、左の配置のほうが拡大を促した。",
+      "credit": "SUPER SCI-Z — 編集部作成のオリジナル図",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ru": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/a1-diagram-textfree-v2.svg",
+      "altText": "Оригинальная схема без надписей внутри изображения. Слева в клоне без p53 активность Wnt ниже по краям и выше в центре; справа в другом клоне она равномерно высока.",
+      "caption": "Редакционная схема, а не микрофотография: слева активность Wnt возрастает от края клона к центру; справа она повсюду высока. В опыте с кожей мышей левый рисунок способствовал большему распространению, хотя суммарный сигнал справа был сильнее.",
+      "credit": "SUPER SCI-Z — оригинальная редакционная схема",
+      "sourcePageUrl": "https://supersci-z.com"
+    }
+  },
+  "laser-grafeno-protons-132-mev-20261002-b1": {
+    "pt": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/b1-diagram-textfree-v2.svg",
+      "altText": "Diagrama original sem rótulos internos. Da esquerda para a direita, um pulso de laser incide no grafeno suspenso; uma região de campo elétrico avança enquanto prótons acelerados chegam ao detector.",
+      "caption": "Esquema interpretativo, da esquerda para a direita: laser, grafeno, campo propagante e detector. A energia máxima de 132 MeV foi medida nas partículas; o movimento do campo e o tempo de aceleração vêm da simulação.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "en": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/b1-diagram-textfree-v2.svg",
+      "altText": "Original diagram without embedded labels. From left to right, a laser pulse strikes suspended graphene; a region of electric field moves forward as accelerated protons reach a detector.",
+      "caption": "Interpretive diagram, from left to right: laser, graphene, propagating field and detector. The maximum proton energy of 132 MeV was measured; the field’s motion and the acceleration time come from a simulation.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "es": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/b1-diagram-textfree-v2.svg",
+      "altText": "Diagrama original sin rótulos incorporados. De izquierda a derecha, un pulso láser incide sobre grafeno suspendido; una región de campo eléctrico avanza mientras los protones acelerados llegan a un detector.",
+      "caption": "Diagrama interpretativo, de izquierda a derecha: láser, grafeno, campo en propagación y detector. Se midió la energía máxima de 132 MeV de los protones; el movimiento del campo y el tiempo de aceleración proceden de una simulación.",
+      "credit": "SUPER SCI-Z — diagrama editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "zh": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/b1-diagram-textfree-v2.svg",
+      "altText": "无内嵌文字的原创示意图。从左到右，激光脉冲击中悬空石墨烯；一片电场区域向前移动，加速的质子抵达探测器。",
+      "caption": "解释性示意图，从左到右依次为激光、石墨烯、传播中的电场和探测器。质子的最高能量132 MeV来自测量；电场运动和加速时间来自模拟。",
+      "credit": "SUPER SCI-Z — 原创编辑示意图",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "hi": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/b1-diagram-textfree-v2.svg",
+      "altText": "बिना अंतर्निहित शब्दों वाला मूल आरेख। बाएँ से दाएँ, लेज़र पल्स निलंबित ग्राफीन पर पड़ती है; विद्युत क्षेत्र का एक क्षेत्र आगे बढ़ता है और त्वरित प्रोटॉन डिटेक्टर तक पहुँचते हैं।",
+      "caption": "व्याख्यात्मक आरेख, बाएँ से दाएँ: लेज़र, ग्राफीन, आगे बढ़ता क्षेत्र और डिटेक्टर। प्रोटॉनों की अधिकतम ऊर्जा 132 MeV मापी गई थी; क्षेत्र की गति और त्वरण की अवधि सिमुलेशन से मिली हैं।",
+      "credit": "SUPER SCI-Z — मूल संपादकीय आरेख",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ja": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/b1-diagram-textfree-v2.svg",
+      "altText": "図中に文字を埋め込んでいない独自の模式図。左から右へ、レーザーパルスが宙に張ったグラフェンに当たり、電場の領域が進む間に加速された陽子が検出器に達する。",
+      "caption": "解釈を示す模式図。左からレーザー、グラフェン、伝播する電場、検出器。陽子の最高エネルギー132 MeVは測定値で、電場の動きと加速時間はシミュレーションによる。",
+      "credit": "SUPER SCI-Z — 独自制作の編集用模式図",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ru": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-02/b1-diagram-textfree-v2.svg",
+      "altText": "Оригинальная схема без встроенных надписей. Слева направо: лазерный импульс попадает в подвешенный графен; область электрического поля движется вперёд, а ускоренные протоны достигают детектора.",
+      "caption": "Пояснительная схема, слева направо: лазер, графен, распространяющееся поле и детектор. Максимальная энергия протонов 132 МэВ измерена; движение поля и время ускорения получены из моделирования.",
+      "credit": "SUPER SCI-Z — оригинальная редакционная схема",
+      "sourcePageUrl": "https://supersci-z.com"
+    }
+  },
+  "aves-migracao-primavera-outono-abundancia-20261003-a1": {
+    "pt": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/bird-migration.svg",
+      "altText": "Esquema editorial abstrato de aves e trajetórias migratórias; as linhas não correspondem a etapas, espécies ou rotas específicas.",
+      "caption": "Ilustração original de deslocamentos migratórios. As linhas são simbólicas e não codificam dados, rotas ou as etapas comparadas no estudo.",
+      "credit": "SUPER SCI-Z — esquema editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "en": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/bird-migration.svg",
+      "altText": "Conceptual editorial illustration of birds and migration paths; the lines do not represent specific stages, species, routes or data.",
+      "caption": "Original illustration of migratory travel. The lines are symbolic and encode neither routes nor the stages compared in the study.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "es": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/bird-migration.svg",
+      "altText": "Ilustración editorial conceptual de aves y trayectorias migratorias; las líneas no representan etapas, especies, rutas ni datos específicos.",
+      "caption": "Ilustración original de desplazamientos migratorios. Las líneas son simbólicas y no codifican rutas ni las etapas comparadas en el estudio.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "zh": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/bird-migration.svg",
+      "altText": "鸟类和抽象迁徙路线的原创示意图；线条不代表具体阶段、物种、路线或数据。",
+      "caption": "原创概念插图。线条只是迁徙的象征，不编码研究比较的两个阶段或地理路线。",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "hi": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/bird-migration.svg",
+      "altText": "पक्षियों और प्रतीकात्मक प्रवास पथों का मूल चित्र; रेखाएँ किसी विशेष चरण, प्रजाति, मार्ग या आँकड़े का संकेत नहीं देतीं।",
+      "caption": "मूल वैचारिक चित्र। रेखाएँ केवल प्रवास दर्शाती हैं, अध्ययन के दोनों चरण या भौगोलिक मार्ग नहीं।",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ja": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/bird-migration.svg",
+      "altText": "鳥と象徴的な渡りの線を描いた独自の図。特定の段階、種、経路や測定値を表すものではない。",
+      "caption": "独自の概念図。線は渡りを象徴するだけで、研究で比較した二つの段階や地理的経路を示さない。",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ru": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/bird-migration.svg",
+      "altText": "Авторская концептуальная иллюстрация птиц и линий миграции; линии не обозначают конкретные этапы, виды, маршруты или данные.",
+      "caption": "Оригинальная схематическая иллюстрация. Линии символизируют перемещение, а не маршруты или два сравниваемых этапа исследования.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    }
+  },
+  "metal-vortices-polares-membranas-torcidas-20261003-b1": {
+    "pt": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/polar-vortices.svg",
+      "altText": "Desenho editorial de duas grades cristalinas sobrepostas com leve rotação e setas curvas que simbolizam vórtices polares.",
+      "caption": "Esquema original, sem escala: grades e setas ilustram a geometria e a organização local; não reproduzem os mapas microscópicos do artigo.",
+      "credit": "SUPER SCI-Z — esquema editorial original",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "en": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/polar-vortices.svg",
+      "altText": "Original editorial diagram of two slightly rotated crystal grids with curved arrows symbolizing polar vortices.",
+      "caption": "Original schematic, not to scale: the grids and arrows illustrate geometry and local organization, not the paper’s microscopy maps.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "es": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/polar-vortices.svg",
+      "altText": "Esquema editorial original de dos redes cristalinas ligeramente giradas y flechas curvas que simbolizan vórtices polares.",
+      "caption": "Esquema original sin escala: las redes y flechas ilustran la geometría y la organización local, no reproducen los mapas microscópicos del artículo.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "zh": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/polar-vortices.svg",
+      "altText": "原创示意图：两层略微旋转的晶格与象征极化涡旋的弯曲箭头。",
+      "caption": "无比例的原创示意图；网格和箭头仅解释几何结构，不复制论文的显微测量图。",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "hi": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/polar-vortices.svg",
+      "altText": "दो हल्के घुमे क्रिस्टल-जाल और ध्रुवण भँवर दर्शाते घुमावदार तीरों का मौलिक चित्र।",
+      "caption": "बिना माप-अनुपात का मौलिक चित्र; जाल और तीर प्रयोग की ज्यामिति समझाते हैं, सूक्ष्मदर्शी मानचित्र की नकल नहीं हैं।",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ja": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/polar-vortices.svg",
+      "altText": "わずかに回転した二つの結晶格子と分極の渦を象徴する曲線矢印の独自模式図。",
+      "caption": "縮尺を示さない独自模式図。格子と矢印は幾何学と局所秩序の説明で、論文の顕微鏡像の再現ではない。",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    },
+    "ru": {
+      "directUrl": "https://supersci-z.com/images/editorial/2026-10-03/polar-vortices.svg",
+      "altText": "Авторская схема двух немного повёрнутых кристаллических решёток и изогнутых стрелок, обозначающих вихри поляризации.",
+      "caption": "Оригинальная схема без масштаба: решётки и стрелки поясняют геометрию, но не воспроизводят микроскопические карты статьи.",
+      "credit": "SUPER SCI-Z — original editorial diagram",
+      "sourcePageUrl": "https://supersci-z.com"
+    }
+  },
+  "anestesia-modelo-humano-ondas-lentas-20261004-a1": {
+    "pt": {
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_Brain_Organoid.jpg",
+      "altText": "Fotografia microscópica de um organoide cerebral humano cultivado em laboratório, usada para ilustrar a classe de modelos; não mostra o assembloide medido no estudo.",
+      "caption": "Organoide cerebral humano em imagem ilustrativa. O experimento relatado combinou tecidos para formar assembloides; esta fotografia não documenta uma amostra ou medida do estudo.",
+      "credit": "Nreis1 / Wikimedia Commons",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Human_Brain_Organoid.jpg"
+    },
+    "en": {
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_Brain_Organoid.jpg",
+      "altText": "Microscopic photograph of a human brain organoid grown in a laboratory, used to illustrate this class of models; it does not show the assembloid measured in the study.",
+      "caption": "Human brain organoid in an illustrative image. The reported experiment combined tissues to form assembloids; this photograph does not document a sample or measurement from the study.",
+      "credit": "Nreis1 / Wikimedia Commons",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Human_Brain_Organoid.jpg"
+    },
+    "hi": {
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_Brain_Organoid.jpg",
+      "altText": "प्रयोगशाला में विकसित मानव मस्तिष्क के ऑर्गेनॉइड की सूक्ष्मदर्शी तस्वीर, ऐसे मॉडलों को दर्शाने के लिए; यह अध्ययन में मापे गए असेंब्लॉइड की तस्वीर नहीं है।",
+      "caption": "मानव मस्तिष्क के ऑर्गेनॉइड की प्रतीकात्मक तस्वीर। रिपोर्ट किए गए प्रयोग में ऊतकों को जोड़कर असेंब्लॉइड बनाए गए थे; यह तस्वीर अध्ययन के किसी नमूने या माप का दस्तावेज़ नहीं है।",
+      "credit": "Nreis1 / Wikimedia Commons",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Human_Brain_Organoid.jpg"
+    },
+    "es": {
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_Brain_Organoid.jpg",
+      "altText": "Fotografía microscópica de un organoide cerebral humano cultivado en laboratorio, utilizada para ilustrar esta clase de modelos; no muestra el asembloide medido en el estudio.",
+      "caption": "Organoide cerebral humano en una imagen ilustrativa. El experimento descrito combinó tejidos para formar asembloides; esta fotografía no documenta una muestra ni una medición del estudio.",
+      "credit": "Nreis1 / Wikimedia Commons",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Human_Brain_Organoid.jpg"
+    },
+    "zh": {
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_Brain_Organoid.jpg",
+      "altText": "实验室培养的人类脑类器官的显微照片，用于示意此类模型；照片所示并非研究中测量的组装类器官。",
+      "caption": "用于示意的人类脑类器官图片。报道中的实验将多种组织组合成组装类器官；这张照片并非研究样本或测量过程的记录。",
+      "credit": "Nreis1 / Wikimedia Commons",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Human_Brain_Organoid.jpg"
+    },
+    "ja": {
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_Brain_Organoid.jpg",
+      "altText": "実験室で培養されたヒトの脳オルガノイドの顕微鏡写真。この種のモデルを示す参考画像で、研究で測定したアセンブロイドではない。",
+      "caption": "ヒトの脳オルガノイドの参考画像。報告された実験では組織を組み合わせてアセンブロイドを作った。この写真は研究の試料や測定を記録したものではない。",
+      "credit": "Nreis1 / Wikimedia Commons",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Human_Brain_Organoid.jpg"
+    },
+    "ru": {
+      "directUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_Brain_Organoid.jpg",
+      "altText": "Микрофотография выращенного в лаборатории органоида человеческого мозга иллюстрирует этот класс моделей; она не показывает ассемблоид, исследованный в работе.",
+      "caption": "Органоид человеческого мозга на иллюстративном снимке. В описанном опыте ткани объединяли в ассемблоиды; снимок не запечатлел образец или измерение из этого исследования.",
+      "credit": "Nreis1 / Wikimedia Commons",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Human_Brain_Organoid.jpg"
+    }
+  },
+  "dois-tipos-poeira-colisoes-planetarias-webb-20261004-b2": {
+    "pt": {
+      "directUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/05/STScI-01GWWHV085ZBHPE46YSG20P667.png?crop=faces%2Cfocalpoint&fit=clip&h=1366&w=1580",
+      "altText": "Imagem observacional infravermelha dos anéis de poeira de Fomalhaut; sistema ilustrativo fora da amostra de 21 discos extremos.",
+      "caption": "O disco de Fomalhaut foi observado pelo Webb em infravermelho e colorizado para visualização. É um exemplo visual de disco de detritos, não integra os 21 sistemas desta pesquisa nem retrata um choque observado.",
+      "credit": "NASA, ESA, CSA; processamento: András Gáspár (Universidade do Arizona) e Alyssa Pagan (STScI)",
+      "sourcePageUrl": "https://science.nasa.gov/asset/webb/fomalhaut-dusty-debris-disk-miri-compass-image/"
+    },
+    "en": {
+      "directUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/05/STScI-01GWWHV085ZBHPE46YSG20P667.png?crop=faces%2Cfocalpoint&fit=clip&h=1366&w=1580",
+      "altText": "Infrared observational image of Fomalhaut’s dust rings. It provides an example from another system outside the study’s sample of 21 extreme debris disks.",
+      "caption": "Webb observed Fomalhaut’s debris disk in infrared light, with colors assigned for display. This is a visual example of a debris disk, outside the 21 systems in this study; it does not show an observed collision.",
+      "credit": "NASA, ESA, CSA; image processing: András Gáspár (University of Arizona) and Alyssa Pagan (Space Telescope Science Institute)",
+      "sourcePageUrl": "https://science.nasa.gov/asset/webb/fomalhaut-dusty-debris-disk-miri-compass-image/"
+    },
+    "es": {
+      "directUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/05/STScI-01GWWHV085ZBHPE46YSG20P667.png?crop=faces%2Cfocalpoint&fit=clip&h=1366&w=1580",
+      "altText": "Imagen observacional infrarroja de los anillos de polvo de Fomalhaut. Es un ejemplo de otro sistema, ajeno a la muestra de 21 discos de escombros extremos del estudio.",
+      "caption": "Webb observó el disco de escombros de Fomalhaut en luz infrarroja, con colores asignados para visualizarlo. Es un ejemplo visual de otro sistema, fuera de los 21 estudiados, y no muestra una colisión observada.",
+      "credit": "NASA, ESA, CSA; procesamiento: András Gáspár (Universidad de Arizona) y Alyssa Pagan (STScI)",
+      "sourcePageUrl": "https://science.nasa.gov/asset/webb/fomalhaut-dusty-debris-disk-miri-compass-image/"
+    },
+    "zh": {
+      "directUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/05/STScI-01GWWHV085ZBHPE46YSG20P667.png?crop=faces%2Cfocalpoint&fit=clip&h=1366&w=1580",
+      "altText": "北落师门尘埃环的红外观测图。它展示的是另一个系统，不属于研究中的21个极端碎屑盘。",
+      "caption": "韦布在红外波段观测了北落师门的碎屑盘，图像经赋色以便观看。这是来自样本之外的碎屑盘示例，不属于研究中的21个系统，也没有呈现实际观测到的碰撞。",
+      "credit": "NASA、ESA、CSA；图像处理：亚利桑那大学的 András Gáspár 和 STScI 的 Alyssa Pagan",
+      "sourcePageUrl": "https://science.nasa.gov/asset/webb/fomalhaut-dusty-debris-disk-miri-compass-image/"
+    },
+    "hi": {
+      "directUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/05/STScI-01GWWHV085ZBHPE46YSG20P667.png?crop=faces%2Cfocalpoint&fit=clip&h=1366&w=1580",
+      "altText": "फोमलहॉट की धूल के छल्लों की अवरक्त अवलोकन छवि। यह अध्ययन की 21 अत्यधिक धूल वाली मलबा-चकतियों के नमूने से बाहर की प्रणाली का उदाहरण है।",
+      "caption": "वेब ने फोमलहॉट की मलबा-चकती को अवरक्त प्रकाश में देखा, जिसे दिखाने के लिए रंग दिए गए हैं। यह मलबा-चकती का दृश्य उदाहरण है; अध्ययन की 21 प्रणालियों में शामिल नहीं है और किसी देखी गई टक्कर को नहीं दिखाता।",
+      "credit": "NASA, ESA, CSA; प्रसंस्करण: András Gáspár (University of Arizona) और Alyssa Pagan (STScI)",
+      "sourcePageUrl": "https://science.nasa.gov/asset/webb/fomalhaut-dusty-debris-disk-miri-compass-image/"
+    },
+    "ja": {
+      "directUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/05/STScI-01GWWHV085ZBHPE46YSG20P667.png?crop=faces%2Cfocalpoint&fit=clip&h=1366&w=1580",
+      "altText": "フォーマルハウトの塵のリングを赤外線で観測した画像。研究対象の極端なデブリ円盤21例には含まれない別の系の例だ。",
+      "caption": "ウェッブが赤外線で観測したフォーマルハウトのデブリ円盤を、表示用に着色した画像。デブリ円盤の参考例であり、この研究の21系には含まれず、観測された衝突を示すものでもない。",
+      "credit": "NASA、ESA、CSA／画像処理：András Gáspár（アリゾナ大学）、Alyssa Pagan（STScI）",
+      "sourcePageUrl": "https://science.nasa.gov/asset/webb/fomalhaut-dusty-debris-disk-miri-compass-image/"
+    },
+    "ru": {
+      "directUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2023/05/STScI-01GWWHV085ZBHPE46YSG20P667.png?crop=faces%2Cfocalpoint&fit=clip&h=1366&w=1580",
+      "altText": "Наблюдательное инфракрасное изображение пылевых колец Фомальгаута. Эта иллюстративная система не входит в выборку из 21 экстремального диска исследования.",
+      "caption": "Телескоп «Уэбб» наблюдал диск обломков Фомальгаута в инфракрасном диапазоне; для отображения назначены условные цвета. Это наглядный пример диска обломков вне 21 системы исследования, а не снимок наблюдавшегося столкновения.",
+      "credit": "NASA, ESA, CSA; обработка: Андраш Гаспар (Аризонский университет) и Алиса Пейган (STScI)",
+      "sourcePageUrl": "https://science.nasa.gov/asset/webb/fomalhaut-dusty-debris-disk-miri-compass-image/"
+    }
+  }
+}

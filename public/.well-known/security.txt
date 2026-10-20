@@ -1,0 +1,4 @@
+Contact: mailto:adm@supersci-z.com
+Expires: 2027-03-07T00:00:00Z
+Preferred-Languages: pt, en
+Canonical: https://supersci-z.com/.well-known/security.txt

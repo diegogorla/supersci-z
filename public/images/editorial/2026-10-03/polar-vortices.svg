@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Esquema original de duas membranas cristalinas levemente giradas e padrões de vórtice polar">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#181535"/><stop offset="1" stop-color="#342157"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 0H38M0 0V38" stroke="#83dddf" stroke-opacity=".38" stroke-width="2"/><circle r="3.4" fill="#b9f6f0"/></pattern><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M1 1 7 4 1 7" fill="none" stroke="#ffd0ae" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="675" fill="url(#bg)"/>
+<g transform="translate(374 297) rotate(-8)"><rect x="-275" y="-175" width="550" height="350" rx="25" fill="#64b8b4" fill-opacity=".13" stroke="#96f5e3" stroke-opacity=".8" stroke-width="3"/><rect x="-265" y="-165" width="530" height="330" fill="url(#grid)"/></g>
+<g transform="translate(757 382) rotate(9)"><rect x="-275" y="-175" width="550" height="350" rx="25" fill="#e395c6" fill-opacity=".13" stroke="#f2add4" stroke-opacity=".85" stroke-width="3"/><rect x="-265" y="-165" width="530" height="330" fill="url(#grid)" opacity=".78"/></g>
+<g fill="none" stroke="#ffd0ae" stroke-width="8" stroke-linecap="round" marker-end="url(#a)"><path d="M536 358C477 291 600 222 669 293C731 362 628 441 564 390"/><path d="M738 451C681 402 784 345 830 397C884 457 801 509 769 484"/></g>
+<circle cx="610" cy="342" r="16" fill="#ffd0ae"/><circle cx="792" cy="443" r="12" fill="#ffd0ae"/>
+</svg>

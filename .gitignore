@@ -1,15 +1,8 @@
-# Secrets and local runtime state
-.env
-.env.*
-!.env.example
-*.pem
-*.key
-.sites-runtime/
-.wrangler/
-node_modules/
-dist/
-.next/
-coverage/
-*.log
-__pycache__/
-.venv/
+YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×ÎS¢Ö¥¢ëiºÙbë5# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patcheó›h‘éì¶»§q«^u•°(¹Ù•É•°((ŒÑåÁ•ÍÉ¥ÁĞ)¹•áĞµ•¹Ø¹¹ÑÌ(½‘¥ÍĞ¼(¼¹İÉ…¹±•È¼(¼¹Í¥Ñ•ÌµÉÕ¹Ñ¥µ”¼(½½ÕÑÁÕÑÌ¼(½İ½É¬¼(½ÍÕÁ…‰…Í”¼¹Ñ•µÀ¼((Œ±½…°½µÁ¥±•ÈÍÑ…Ñ”(¨¹ÑÍ‰Õ¥±‘¥¹™¼(

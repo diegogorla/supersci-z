@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Noncollinear spin-orbit filtering at asymmetric platinum interface</title>
+  <desc id="desc">Comparação entre uma interface de platina 100, de alta simetria, e uma interface de platina 210, assimétrica. A superfície assimétrica filtra os spins dos elétrons e produz a polarização fora do plano necessária para inverter um bit magnético perpendicular sem campo magnético externo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b11"/>
+      <stop offset="1" stop-color="#151b28"/>
+    </linearGradient>
+    <linearGradient id="pt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dce4ef"/>
+      <stop offset="1" stop-color="#78889d"/>
+    </linearGradient>
+    <linearGradient id="fm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9c285f"/>
+      <stop offset="1" stop-color="#e6578f"/>
+    </linearGradient>
+    <marker id="arrow-cyan" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L10 5L0 10Z" fill="#55dff3"/>
+    </marker>
+    <marker id="arrow-purple" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L10 5L0 10Z" fill="#b88cff"/>
+    </marker>
+    <marker id="arrow-lime" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L10 5L0 10Z" fill="#d8ff43"/>
+    </marker>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <g id="atom">
+      <circle r="17" fill="url(#pt)" stroke="#f4f8ff" stroke-width="2"/>
+      <circle cx="-5" cy="-6" r="5" fill="#fff" opacity=".55"/>
+    </g>
+    <g id="spin-up">
+      <circle r="13" fill="#152535" stroke="#55dff3" stroke-width="2"/>
+      <path d="M0 7V-7" stroke="#55dff3" stroke-width="3" marker-end="url(#arrow-cyan)"/>
+    </g>
+    <g id="spin-side">
+      <circle r="13" fill="#152535" stroke="#55dff3" stroke-width="2"/>
+      <path d="M-7 0H7" stroke="#55dff3" stroke-width="3" marker-end="url(#arrow-cyan)"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M600 92V612" stroke="#344053" stroke-width="2" stroke-dasharray="8 10"/>
+
+  <text x="75" y="70" fill="#f2f5fa" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Pt (100) · alta simetria</text>
+  <text x="675" y="70" fill="#f2f5fa" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Pt (210) · interface assimétrica</text>
+
+  <!-- Conventional high-symmetry interface -->
+  <rect x="85" y="150" width="430" height="92" rx="12" fill="url(#fm)" stroke="#ff89b5" stroke-width="2"/>
+  <text x="300" y="205" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">FM · bit magnético</text>
+  <text x="300" y="128" text-anchor="middle" fill="#ff8aa5" font-family="Arial, Helvetica, sans-serif" font-size="20">campo externo ainda necessário</text>
+
+  <rect x="85" y="285" width="430" height="245" rx="18" fill="#8794a5" opacity=".14" stroke="#aab7c8" stroke-width="2"/>
+  <text x="112" y="510" fill="#dbe4ef" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">PLATINA</text>
+
+  <use href="#atom" x="135" y="330"/><use href="#atom" x="205" y="330"/><use href="#atom" x="275" y="330"/><use href="#atom" x="345" y="330"/><use href="#atom" x="415" y="330"/><use href="#atom" x="485" y="330"/>
+  <use href="#atom" x="170" y="385"/><use href="#atom" x="240" y="385"/><use href="#atom" x="310" y="385"/><use href="#atom" x="380" y="385"/><use href="#atom" x="450" y="385"/>
+  <use href="#atom" x="135" y="440"/><use href="#atom" x="205" y="440"/><use href="#atom" x="275" y="440"/><use href="#atom" x="345" y="440"/><use href="#atom" x="415" y="440"/><use href="#atom" x="485" y="440"/>
+
+  <path d="M125 570H470" stroke="#55dff3" stroke-width="7" marker-end="url(#arrow-cyan)"/>
+  <text x="115" y="615" fill="#55dff3" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">corrente de carga J<tspan baseline-shift="sub" font-size="17">c</tspan></text>
+  <path d="M300 320V258" stroke="#55dff3" stroke-width="6" marker-end="url(#arrow-cyan)"/>
+  <text x="318" y="273" fill="#55dff3" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">J<tspan baseline-shift="sub" font-size="16">s</tspan></text>
+  <use href="#spin-side" x="300" y="264"/>
+  <text x="338" y="262" fill="#b9c5d4" font-family="Arial, Helvetica, sans-serif" font-size="20">spin no plano</text>
+  <path d="M150 275H435" stroke="#b88cff" stroke-width="5" marker-end="url(#arrow-purple)"/>
+  <text x="448" y="281" fill="#cbb2ff" font-family="Arial, Helvetica, sans-serif" font-size="21">u<tspan baseline-shift="sub" font-size="15">R</tspan></text>
+
+  <!-- Asymmetric low-symmetry interface -->
+  <rect x="685" y="150" width="430" height="92" rx="12" fill="url(#fm)" stroke="#ff89b5" stroke-width="2"/>
+  <text x="900" y="205" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">FM · bit magnético</text>
+  <path d="M900 217V169" stroke="#d8ff43" stroke-width="7" marker-end="url(#arrow-lime)" filter="url(#glow)"/>
+  <text x="900" y="128" text-anchor="middle" fill="#d8ff43" font-family="Arial, Helvetica, sans-serif" font-size="20">inversão sem campo externo</text>
+  <path d="M1095 285L685 345V530H1115V285Z" fill="#8794a5" opacity=".14" stroke="#aab7c8" stroke-width="2"/>
+  <text x="712" y="510" fill="#dbe4ef" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">PLATINA</text>
+
+  <use href="#atom" x="735" y="347"/><use href="#atom" x="805" y="337"/><use href="#atom" x="875" y="327"/><use href="#atom" x="945" y="317"/><use href="#atom" x="1015" y="307"/><use href="#atom" x="1085" y="297"/>
+  <use href="#atom" x="750" y="404"/><use href="#atom" x="820" y="394"/><use href="#atom" x="890" y="384"/><use href="#atom" x="960" y="374"/><use href="#atom" x="1030" y="364"/><use href="#atom" x="1100" y="354"/>
+  <use href="#atom" x="735" y="465"/><use href="#atom" x="805" y="455"/><use href="#atom" x="875" y="445"/><use href="#atom" x="945" y="435"/><use href="#atom" x="1015" y="425"/><use href="#atom" x="1085" y="415"/>
+
+  <path d="M725 570H1070" stroke="#55dff3" stroke-width="7" marker-end="url(#arrow-cyan)"/>
+  <text x="715" y="615" fill="#55dff3" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">corrente de carga J<tspan baseline-shift="sub" font-size="17">c</tspan></text>
+  <path d="M900 322V257" stroke="#d8ff43" stroke-width="7" marker-end="url(#arrow-lime)" filter="url(#glow)"/>
+  <text x="925" y="265" fill="#d8ff43" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">J<tspan baseline-shift="sub" font-size="16">s</tspan> · σ<tspan baseline-shift="sub" font-size="16">z</tspan></text>
+  <use href="#spin-up" x="900" y="264"/>
+  <path d="M775 330L1010 285" stroke="#b88cff" stroke-width="6" marker-end="url(#arrow-purple)" filter="url(#glow)"/>
+  <path d="M810 298C845 260 883 250 920 260" fill="none" stroke="#d8ff43" stroke-width="4" stroke-dasharray="7 7" marker-end="url(#arrow-lime)"/>
+  <text x="710" y="270" fill="#d8ff43" font-family="Arial, Helvetica, sans-serif" font-size="20">filtragem de spin</text>
+
+  <text x="600" y="650" text-anchor="middle" fill="#8794a5" font-family="Arial, Helvetica, sans-serif" font-size="16">SUPER SCI-Z · adapted from Chen et al., Phys. Rev. X 16, 031060 (2026) · DOI 10.1103/gzp7-1nvx · CC BY 4.0</text>
+</svg>
